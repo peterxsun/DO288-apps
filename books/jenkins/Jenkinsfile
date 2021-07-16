@@ -10,8 +10,8 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "peterxsun-books-dev"
-        STAGE_PROJECT = "peterxsun-books-stage"
+        DEV_PROJECT = "hnmwku-books-dev"
+        STAGE_PROJECT = "hnmwku-books-stage"
         APP_GIT_URL = "https://github.com/peterxsun/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.na45.prod.nextcle.com/repository/nodejs"
 
